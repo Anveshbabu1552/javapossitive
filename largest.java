@@ -20,5 +20,8 @@ else if ( z > x && z > y )
  {
  System.out.println("Third  largest.");
 }
+       else   
+         System.out.println("Entered numbers are not distinct.");
+}
    }
 }
